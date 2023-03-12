@@ -13,9 +13,9 @@ public class IfElse
 		}
 
 		else if(n%2==0)
-			System.out.println("Even");
+			System.out.println("Even Number");
 		else
-			System.out.println("Odd");
+			System.out.println("Odd Number");
 	}
 	
 	
